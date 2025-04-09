@@ -1,0 +1,24 @@
+Version 1.0.1 - (Given at 55th minute)
+Feature Request: Add a function that summarises all feedback (e.g., show
+top scores and grade-wise counts).
+• Create a new branch feature/summary.
+• Add feedback summary.py.
+• Update documentation + test cases.
+• Merge to main using a PR.
+Niteesh K R
+Page 1 of 2
+P E S
+UNIVERSITY
+Department of Computer Applications
+Version 1.1.0 - (Given at 85th minute)
+Feature Request: Export feedback to txt file.
+• Add a new file report generator.py.
+• Create GitHub Issue + Milestone titled "v1.1 Release"
+• Link Issue to Milestone and document the change.
+Version 1.2.0 - (Given at 115th minute)
+Final Feature Request:
+• search_feedback.py: Search feedback by student name.
+• count_feedback.py: Count total entries submitted.
+• Include new tests and version entry in CHANGELOG.md.
+Hint: Modularise code into files and maintain changelogs. Use branches and
+merge wisely.
