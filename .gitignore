@@ -1,0 +1,93 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+env.bak/
+venv.bak/
+instance/
+.webassets-cache
+.pytest_cache
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+eggs/
+.eggs/
+dist/
+build/
+develop-eggs/
+lib64/
+wheels/
+*.egg-info/
+.installed.cfg
+*.whl
+MANIFEST
+
+# Environments
+# virtualenv
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+ENV.bak/
+# pyenv-virtualenv
+.python-version
+
+# Spyder project settings
+.spyderproject
+.spyder*
+# Rope project settings
+.ropeproject
+
+# mypy
+.mypy_cache/
+.dmypy_cache/
+.pyre_configuration
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# PyCharm
+.pycharm/
+*.iml
+
+# OSX
+.DS_Store
+
+# Testing
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.log
+*.out
+.tox
+.nox
+.trunk
+.pre-commit-cache
+
+# Environments (more common)
+env/
+venv/
+
+# Temporary files
+*.tmp
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS generated files
+Thumbs.db
